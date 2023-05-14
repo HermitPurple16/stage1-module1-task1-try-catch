@@ -24,6 +24,7 @@ public class ParseIntegers {
             int number = Integer.parseInt(next);
             // todo: complete it
         }
+        System.out.println("Hello");
         System.out.println("Sum is " + sum);
         System.out.println("Just words:" + justWords);
     }
